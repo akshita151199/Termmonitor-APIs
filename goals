@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "goal_id": 1,
+            "goal": "technology"
+        },
+        {
+            "goal_id": 2,
+            "goal": "politics"
+        },
+        {
+            "goal_id": 3,
+            "goal": "general"
+        },
+        {
+            "goal_id": 4,
+            "goal": "cryptocurrency"
+        },
+        {
+            "goal_id": 5,
+            "goal": "knowledge"
+        }
+    ]
+}
