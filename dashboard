@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id":1,
+            "keyword": "Blockchain",
+            "goal": "technology",
+            "matches":18,
+            "search_status":78
+        },
+        {
+            "id":2,
+            "keyword": "ReactJs",
+            "goal": "technology",
+            "matches":18,
+            "search_status":78
+        },
+        {
+            "id":3,
+            "keyword": "NextJs",
+            "goal": "technology",
+            "matches":18,
+            "search_status":78
+        },
+        {
+            "id":4,
+            "keyword": "Typescript",
+            "goal": "technology",
+            "matches":18,
+            "search_status":78
+        },
+        {
+            "id":5,
+            "keyword": "Javascript",
+            "goal": "technology",
+            "matches":18,
+            "search_status":78
+        },
+        {
+            "id":6,
+            "keyword": "Django",
+            "goal": "technology",
+            "matches":18,
+            "search_status":78
+        }
+    ]
+}
